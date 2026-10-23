@@ -1,0 +1,8 @@
+{
+  "name": "lexwatcher",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "New, upcoming and landmark law in the EU, UK and US, explained for law students, with live updates from official sources.",
+  "engines": { "node": ">=18" }
+}
