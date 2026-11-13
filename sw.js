@@ -1,6 +1,6 @@
 // LexWatcher service worker: makes the app installable and usable offline.
 // Change VERSION whenever you upload a new version of the site.
-const VERSION = "lexwatcher-v8";
+const VERSION = "lexwatcher-v9";
 const SHELL = ["/", "/index.html", "/manifest.webmanifest", "/icons/icon-192.png", "/icons/icon-512.png"];
 
 self.addEventListener("install", e => {
